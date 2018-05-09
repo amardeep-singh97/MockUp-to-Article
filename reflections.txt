@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+ *FIRST = I have learned new skills on how to tackle/approach a problem in front end development in general, learnt few neat tricks to format the web page, learned about markdown style, and these are only few of many things that I have developed over the past few days.
+
+*FOURTH = Definitely, for most of the exercises I did not know the answers right away but I knew that the answer is not that far away either, all I had to do was employ the first strategy I learned from the previous project and I am good to go.
